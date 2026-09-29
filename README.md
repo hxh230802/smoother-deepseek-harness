@@ -1,6 +1,6 @@
 # 丝滑的DSH
 
-你的DSH——比想象的更丝滑！本整合包添加了dsh-smooth-stream插件使流式输出更丝滑，添加dsh-client-ui-task-board插件添加方便的任务看板，添加底部信息栏插件、小鯨鱼插件为工作区增添趣味，以及dsh-pack-plugin管理整合包。添加20个skill用于优化以及编码指导。
+【推荐官方桌面端安装】你的DSH——比想象的更丝滑！本整合包添加了dsh-smooth-stream插件使流式输出更丝滑，添加dsh-client-ui-task-board插件添加方便的任务看板，添加底部信息栏插件、小鯨鱼插件为工作区增添趣味，以及dsh-pack-plugin管理整合包。添加20个skill用于优化以及编码指导。
 
 > 由 DSH PackForge 生成 · manifest v5 · type=profile
 
@@ -8,7 +8,7 @@
 
 | 字段 | 值 |
 | --- | --- |
-| 整合包 | `smoother-deepseek-harness` v`1.0.0` |
+| 整合包 | `smoother-deepseek-harness` v`1.0.1` |
 | DSH 版本 | 未钉定（安装端兜底） |
 | 作者 | HXH |
 | 层栈 | 7 个 bundle |
@@ -40,4 +40,4 @@
 ## 使用
 
 - 分发：重打包生成 `.dspack`（产物输出到 `release/`）
-- 安装：`dspack install release/smoother-deepseek-harness-1.0.0.dspack`
+- 安装：`dspack install release/smoother-deepseek-harness-1.0.1.dspack`
